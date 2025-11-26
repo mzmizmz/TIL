@@ -1,4 +1,4 @@
-# Pull Request について
+# Pull Request について（更新版）
 
 ## プルリクエストとは
 
